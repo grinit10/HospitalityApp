@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipsyProj", "TipsyProj\TipsyProj.csproj", "{F68AA623-2C34-48D1-9722-E7C2DCA2F237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypsyApi", "..\TypsyApi\TypsyApi.csproj", "{02A0C27D-1990-420B-A533-6F136ADE3F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{C746F003-7EAC-463D-B475-DD42E475F692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68AA623-2C34-48D1-9722-E7C2DCA2F237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68AA623-2C34-48D1-9722-E7C2DCA2F237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68AA623-2C34-48D1-9722-E7C2DCA2F237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68AA623-2C34-48D1-9722-E7C2DCA2F237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A0C27D-1990-420B-A533-6F136ADE3F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A0C27D-1990-420B-A533-6F136ADE3F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A0C27D-1990-420B-A533-6F136ADE3F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A0C27D-1990-420B-A533-6F136ADE3F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C746F003-7EAC-463D-B475-DD42E475F692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C746F003-7EAC-463D-B475-DD42E475F692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C746F003-7EAC-463D-B475-DD42E475F692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C746F003-7EAC-463D-B475-DD42E475F692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BD7C3B5-FEF4-40F0-BAD6-5D88071CAD18}
+	EndGlobalSection
+EndGlobal

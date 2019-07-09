@@ -14,8 +14,8 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DataLayer\DataLayer.csproj" />
-    <ProjectReference Include="..\..\Repository\Repository.csproj" />
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
 
 </Project>
